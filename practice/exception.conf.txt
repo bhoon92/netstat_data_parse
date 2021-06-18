@@ -1,0 +1,8 @@
+[EXCEPT]
+except_ip=127.0.0.11,0.0.0.0
+except_port=53
+except_process=sshd,cupsd,dns
+
+[ALLOW]
+allow_ip=
+allow_port=

@@ -1,0 +1,12 @@
+list -> str
+
+compare str and str
+
+str change list
+
+o. origin_list [0]
+1. ex_proc 
+    if ex_proc not in origin_list
+        add list idx
+2. ex_ip
+3. ex_port
